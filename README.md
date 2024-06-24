@@ -1,2 +1,2 @@
 
-![HIPRT path tracer cover](img/P1_environment.jpg)
+![HIPRT path tracer cover](img/Banner.jpg)
